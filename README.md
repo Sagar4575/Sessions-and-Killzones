@@ -4,8 +4,6 @@
 
 Visualises the four major FX market sessions and four ICT kill zones as coloured range boxes directly on your chart. Each session and kill zone is fully configurable — times, timezone, colours, box style, opening range, Fibonacci levels, bar colouring, candles, labels, and more.
 
-![Sessions and Killzones](assets/preview.png)
-
 ---
 
 ## Features
@@ -71,14 +69,6 @@ All settings are in the indicator's **Settings panel** (⚙ icon on the chart).
 | `ALERTS VISUALISED` | Toggle visual markers for each alert type |
 
 ---
-
-## Screenshots
-
-> Add your own screenshots to the `assets/` folder.
-
-| Sessions overview | Kill zones with opening range |
-|---|---|
-| ![Sessions](assets/screenshot-sessions.png) | ![Kill Zones](assets/screenshot-killzones.png) |
 
 ---
 
