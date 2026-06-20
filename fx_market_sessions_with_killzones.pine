@@ -29,7 +29,7 @@
 //     • Alerts — session start/end, OR breakout, H/L cross
 
 //@version=6
-indicator('Sessions and Killzones', 'Sessions and Killzones', overlay=true, max_lines_count=500, max_boxes_count=500, max_labels_count=500, max_bars_back=1000, explicit_plot_zorder=true)
+indicator('Sessions and Kill Zones', 'Sessions', overlay=true, max_lines_count=500, max_boxes_count=500, max_labels_count=500, max_bars_back=1000, explicit_plot_zorder=true)
 
 import boitoki/AwesomeColor/9 as ac
 import boitoki/Utilities/11 as util
